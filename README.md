@@ -10,7 +10,7 @@
 <p align="left">
 
   
-<a href="www.linkedin.com/in/mariana-monteiro-261755295" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="mariana monteiro" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/mariana-monteiro-261755295" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="mariana monteiro" height="40" width="40" /></a>
 
 </p>
 

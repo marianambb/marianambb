@@ -1,5 +1,4 @@
-<img align="right" alt="Coding" width="400" src="add your link 
-  here">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header)"/>
 
 <h1 align="center">Hi, I'm Mariana Monteiro!</h1>
 <h3 align="center">Computer engineering student | Passionate about technology and problem solving.</h3>

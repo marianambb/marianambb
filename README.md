@@ -1,3 +1,9 @@
+<svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <path d="M0,80 C300,150 900,-30 1200,100 L1200,120 L0,120 Z" fill="#1E3A8A" stroke="#0F172A" stroke-width="4" />
+  <path d="M0,90 C300,120 900,10 1200,80 L1200,120 L0,120 Z" fill="#2563EB" stroke="#1E3A8A" stroke-width="3" />
+  <path d="M0,100 C300,90 900,50 1200,60 L1200,120 L0,120 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="2" />
+</svg>
+
 ## Hi there 👋
 
 <!--

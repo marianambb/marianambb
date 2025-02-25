@@ -1,4 +1,4 @@
-<img width=100% src="[https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header)](https://capsule-render.vercel.app/api?type=venom&height=302&color=gradient&section=header&reversal=false)"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=139&color=gradient&section=header&reversal=false)"/>
 
 <h1 align="center">Hi, I'm Mariana Monteiro!</h1>
 <h3 align="center">Computer engineering student | Passionate about technology and problem solving.</h3>

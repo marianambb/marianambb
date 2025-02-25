@@ -1,11 +1,18 @@
-<h1 align="center">Hi, I'm Mariana Monteiro</h1>
+<img align="right" alt="Coding" width="400" src="add your link 
+  here">
+
+<h1 align="center">Hi, I'm Mariana Monteiro!</h1>
 <h3 align="center">Computer engineering student | Passionate about technology and problem solving.</h3>
 
-- 📫 How to reach me **mariana.mntb@gmail.com**
+- 📫 Send me a message at: **mariana.mntb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mariana monteiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariana monteiro" height="30" width="40" /></a>
+
+  
+<a href="www.linkedin.com/in/mariana-monteiro-261755295" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://icons8.com/icon/67570/linkedin)" alt="mariana monteiro" height="30" width="40" /></a>
+<!--  
+<a href="www.linkedin.com/in/mariana-monteiro-261755295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariana monteiro" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

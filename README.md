@@ -4,6 +4,8 @@
   <path d="M0,100 C300,90 900,50 1200,60 L1200,120 L0,120 Z" fill="#3B82F6" stroke="#2563EB" stroke-width="2" />
 </svg>
 
+<img src="caminho-do-svg" width="100%" height="120" />
+
 ## Hi there 👋
 
 <!--

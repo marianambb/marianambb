@@ -3,16 +3,16 @@
 <h1 align="center">Hi, I'm Mariana Monteiro!</h1>
 <h3 align="center">Computer engineering student | Passionate about technology and problem solving.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">  
-<a href="https://www.linkedin.com/in/mariana-monteiro-261755295" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="mariana monteiro" height="60" width="60" /></a>
-
 </p>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marianambb&show_icons=true&count_private=true&hide_border=true&title_color=6a5acd&icon_color=191970&text_color=c9d1d9&bg_color=0d1117" alt="Mariana Monteiro github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianambb&layout=compact&hide_border=true&title_color=6a5acd&text_color=00bfbf&bg_color=0d1117" />
 </div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">  
+<a href="https://www.linkedin.com/in/mariana-monteiro-261755295" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="mariana monteiro" height="60" width="60" /></a>
 
 
 <h3 align="left">Skills</h3>

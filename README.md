@@ -13,6 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">  
 <a href="https://www.linkedin.com/in/mariana-monteiro-261755295" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="mariana monteiro" height="60" width="60" /></a>
+  
+📫 Or send me a message at: **mariana.mntb@gmail.com**
 
 
 <h3 align="left">Skills</h3>
@@ -35,7 +37,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marianambb&bg_color=363636&color=836FFF&line=483d8b&point=a020f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- 📫 Send me a message at: **mariana.mntb@gmail.com**
 </p>
 
 <!--

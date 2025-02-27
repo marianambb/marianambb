@@ -10,7 +10,7 @@
   
  <!-- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianambb&layout=compact&hide_border=true&title_color=6a5acd&text_color=00bfbf&bg_color=0d1117" /> -->
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianambb&layout=compact&hide_border=true&title_color=6a5acd&text_color=00bfbf&bg_color=0d1117&cache_seconds=1800" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianambb&layout=compact&hide_border=true&title_color=6a5acd&text_color=f8f8ff&bg_color=0d1117&cache_seconds=1800" />
 
 </div>
 
